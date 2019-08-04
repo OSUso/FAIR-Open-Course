@@ -1,0 +1,2 @@
+# OpenFAIRCourse
+Open FAIR Course
