@@ -1,3 +1,4 @@
+![FAIR Open Course ](https://github.com/OSUso/OpenFAIRCourse/blob/master/FAIRGithub.png)
 # OpenFAIRCourse
 Open FAIR Course
 
