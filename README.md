@@ -7,7 +7,7 @@ The primary target group are FAIR enthusiast that are familiar with the official
 
 This is now ver. 0.1. If there is general intest in the material then I will continue improving it.
 
-All material is eleased under the following license: Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+All material is released under the following license: Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 Conditions for use are published here: https://creativecommons.org/licenses/by-sa/4.0/
 
 
